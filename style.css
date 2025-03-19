@@ -63,7 +63,7 @@ body {
 
 .card-container:hover .card-back,
 .card-container:hover:active .card-back {
-  transform: translate(5px, 5px);
+  transform: translate(5px);
 }
 
 .card-back:hover,
