@@ -33,12 +33,11 @@ Users should be able to:
 !This is a solution to the [Blog preview card challenge on Frontend Mentor](./assets/images/Blog_preview_card_solution.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Dinma-Faith/blog-preview-card-main)
+- Live Site URL: [Add live site URL here](https://dinma-faith.github.io/blog-preview-card-main/)
 
 ## My process
-- Download challenge from frontend mentor.io
+- Download the challenge from frontend mentor.io
 - Extract into Desktop
 - Open via VS code
 - Initialize with git
